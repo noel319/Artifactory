@@ -16,3 +16,4 @@
 *.lvlps
 *.vip
 lv-src/artifactory.json
+.lv-src/
